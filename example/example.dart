@@ -1,5 +1,5 @@
-import 'package:image/image.dart';
 import 'package:flutter/services.dart';
+import 'package:image/image.dart';
 import 'package:esc_pos_utils/esc_pos_utils.dart';
 
 Future<void> main() async {
